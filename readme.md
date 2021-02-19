@@ -10,6 +10,11 @@
 git clone https://github.com/alxxndrv/statusify.git
 ```
 
+Установите нужные модули из `requirements.txt`
+```bash
+pip install -r requirements.txt
+```
+
 Вам понадобятся некоторые **глобальные переменные**
 
 Для начала, зарегистрируйте свое приложение на [портале для разработчиков Spotify](http://developer.spotify.com)
