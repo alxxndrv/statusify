@@ -1,0 +1,4 @@
+*.json
+.cache-ffff
+Procfile
+/venv
