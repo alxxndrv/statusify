@@ -70,6 +70,8 @@ python app.py start_phrase stop_phrase
 python app.py start stop
 ```
 
+![статус_вконтакте](https://i.ibb.co/5cqZ7dk/Screenshot-2021-02-20-at-02-08-1.png)
+
 ## Поддержка
 `Pull requestы` приветствуются. Если хотите сделать большое изменение — откройте `issue`. 
 
